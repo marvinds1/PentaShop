@@ -1,6 +1,6 @@
-Website E-Commerce with Python - Flask
+# Website E-Commerce with Python - Flask
 
-# Flask-Login-Register
+Flask-Login-Register
 A Simple Login &amp; Register Page Using Flask.
 
 Creating the database:
